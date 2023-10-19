@@ -9,6 +9,7 @@ library(lubridate)
 library(anytime)
 library(readr)
 library(yaml)
+library(purrr)
 
 #### 1: Beginning of script
 
